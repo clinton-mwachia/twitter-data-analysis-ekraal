@@ -7,3 +7,6 @@ My completed task
   * BEARER TOKEN: 
 
 These keys can be accessed from the twitter developers website.
+
+# SCREENSHOT OF THE DASHBOARD
+![alt text](http://url/to/img.png)
