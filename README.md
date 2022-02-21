@@ -8,4 +8,4 @@
 These keys can be accessed from the twitter developers website.
 
 # SCREENSHOT OF THE DASHBOARD
-![alt text](http://url/to/img.png)
+![dashboard](https://github.com/clinton-mwachia/twitter-data-analysis-ekraal/blob/master/Screenshot%20(1).png)
